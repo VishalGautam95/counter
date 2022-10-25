@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+    padding: 225px;
+    
+}
+h1{
+    font-size: 100px;
+    color: burlywood;
+}
+#value{
+    font-size: 150px;
+
+}
+.btn{
+    font-size: 50px;
+    border-radius: 40px;
+    border-color: blue;
+    color: aquamarine;
+}
+.btn:hover{
+    background-color: black;
+}
